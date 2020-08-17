@@ -1,0 +1,9 @@
+﻿.hiragana-header {
+    text-align:center;
+}
+
+.hiragana-button > div:nth-child(n+1) > button {
+    width: 400px;
+    height: 120px;
+    border-radius: 15px;
+}

@@ -1,0 +1,9 @@
+﻿.katakana-header {
+    text-align: center;
+}
+
+.katakana-button > div:nth-child(n+1) > button {
+    width: 400px;
+    height: 120px;
+    border-radius: 15px;
+}

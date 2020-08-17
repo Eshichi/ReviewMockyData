@@ -1,0 +1,14 @@
+﻿.kanji-table > div > div > table > tbody {
+    font-size: 20px;
+}
+
+.kanji-table >div>div> table> tbody> tr > td:nth-child(1) {
+    /*font-size: 60px;
+    font-weight: bold;*/
+}
+
+    .kanji-table > div > div > table > tbody > tr > td:nth-child(1):hover {
+        text-align: center;
+        font-size: 65px;
+    font-weight: bold;
+    }

@@ -1,0 +1,40 @@
+﻿a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+/*--*/
+
+.border-bottom {
+     border-bottom: 0px solid #dee2e6 !important; 
+}
+.nav-tab-css > li:nth-child(n+1)> a{
+    color:white !important;
+}
+.navbar-css {
+    background-color: #2F97C1;
+}
+
+.register-button {
+    background-color: #1CCAD8;
+    border-color: #1CCAD8;
+}
+
+.login-button {
+    background-color: #1CCAD8;
+    border-color: #1CCAD8;
+}

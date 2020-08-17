@@ -1,0 +1,25 @@
+﻿.hiragana-review-question {
+    text-align: center;
+    font-size: 150px;
+    font-weight: bold;
+    background-color: #2F97C1;
+    border-radius: 5px;
+    color: white;
+    margin: 0px 10px 10px 10px;
+}
+
+.hiragana-review-form > div:nth-child(2) > form > div:nth-child(2) {
+    margin-top:20px;
+    margin-bottom: 50px;
+}
+
+.hiragana-review-form > div:nth-child(2) > form > div:nth-child(3)  {
+    text-align:center;
+}
+
+    .hiragana-review-form > div:nth-child(2) > form > div:nth-child(3) > div > button {
+        background-color: #1CCAD8;
+        color: white;
+        width: 140px;
+        height: 50px;
+    }
